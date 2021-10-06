@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anansi03
-- 👀 I’m interested in Coding, Cyber Security
+- 👋 Hi, I’m Rebekah Rose
+- 👀 I’m interested in programming and Cyber Security
 - 🌱 I’m currently learning C Language
 - 💞️ I’m looking to collaborate on C Language Projects
 - 📫 How to reach me grebekahrose03@gmail.com
